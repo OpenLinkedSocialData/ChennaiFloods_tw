@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#ChennaiFloods_tw">
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2015-12-03</po:createdAt>
+    <po:originalFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ChennaiFloods_tw/master/base/</po:originalFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ChennaiFloods_tw/master/rdf/ChennaiFloods_twMeta.owl</po:discorveryRDFFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <rdfs:label>Snapshot ChennaiFloods_tw</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Twitter messages related to tweets with the #ChennaiFloods_tw hashtag</rdfs:comment>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/ttm/ChennaiFloods_tw</po:availableAt>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">labMacambira.sf.net</po:donatedBy>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Twitter search engine</po:acquiredThrough>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ChennaiFloods_tw/master/rdf/ChennaiFloods_twMeta.ttl</po:discoveryTTLFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ChennaiFloods_tw/master/rdf/ChennaiFloods_twTranslate.ttl</po:ttlFile>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/ttm/ChennaiFloods_tw/master/rdf/ChennaiFloods_twTranslate.owl</po:rdfFile>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-04T01:28:38.087609</po:triplifiedIn>
+  </rdf:Description>
+</rdf:RDF>
